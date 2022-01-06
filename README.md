@@ -11,7 +11,9 @@ Basta clonar o repositório e abrir o `index.html`.
 
 -----
 ## Revisões
-* Upar o site para algum domínio, heroku, etc para mais fácil acesso --> ***(Pull Req aberta!)***
+* Upar o site para algum domínio, heroku, etc para mais fácil acesso --> ***(Pull Req aberta!)*** 
+
+* Fix popup dos nomes das materias --> ***(Pull Req aberta!)*** 
 
 * Fix na função de *"desclicar"* para descolorir as matérias dependentes --> ***(Pull Req aberta!)***
 
